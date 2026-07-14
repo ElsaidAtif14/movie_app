@@ -2,11 +2,11 @@
 
 ### 📱 App Screenshots
 
-| Home & Now Playing | Movie Details | Categories & Search |
+| Watchlist | Actor Deatils | Actor Deatls|
 | :-: | :-: | :-: |
 | <img src="https://github.com/user-attachments/assets/ec221da2-01e6-4ea9-80f7-135e0beb300c" width="240"> | <img src="https://github.com/user-attachments/assets/4601b5c6-7b21-4b38-90e2-45437d719fb5" width="240"> | <img src="https://github.com/user-attachments/assets/f7fea655-0743-4b3e-b720-649a02502802" width="240"> |
 
-| Watchlist | Profile / Settings |
+| Movie Deatils |  Home & Now Playing |
 | :-: | :-: |
 | <img src="https://github.com/user-attachments/assets/00a47647-1433-4a43-981c-c92c372bf62d" width="240"> | <img src="https://github.com/user-attachments/assets/bcf00e21-24d9-4e85-83bd-bdb0ad56c8df" width="240"> |
 
