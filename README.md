@@ -1,3 +1,8 @@
+<img width="720" height="1600" alt="WhatsApp Image 2026-07-14 at 5 02 55 PM (4)" src="https://github.com/user-attachments/assets/ec221da2-01e6-4ea9-80f7-135e0beb300c" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-07-14 at 5 02 55 PM (3)" src="https://github.com/user-attachments/assets/4601b5c6-7b21-4b38-90e2-45437d719fb5" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-07-14 at 5 02 55 PM (2)" src="https://github.com/user-attachments/assets/f7fea655-0743-4b3e-b720-649a02502802" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-07-14 at 5 02 55 PM (1)" src="https://github.com/user-attachments/assets/00a47647-1433-4a43-981c-c92c372bf62d" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-07-14 at 5 02 55 PM" src="https://github.com/user-attachments/assets/bcf00e21-24d9-4e85-83bd-bdb0ad56c8df" />
 # Movies App 🍿🎥
 
 Movies App is a Flutter-based movie browsing application that provides a seamless experience for discovering, browsing, and enjoying movies. The app offers a user-friendly interface to explore movie details, watch trailers, and manage personal watchlists. Built with modern Flutter architecture, it ensures smooth performance across Android and iOS platforms.
